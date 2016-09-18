@@ -504,3 +504,8 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+#contact .contact-item {
+  text-align: center;
+  font-weight: bold;
+}
